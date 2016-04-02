@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://set321go.github.io
+title: Technical Rambles
+tagline: talk and learn
+description: Today I decided it would be great to give others insight into the story of my career and discoveries.
+paginate: 5
