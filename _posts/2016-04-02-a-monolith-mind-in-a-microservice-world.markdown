@@ -3,7 +3,7 @@ published: false
 title: A Monolith Mind in a MicroService world
 layout: post
 ---
-There is a lot of demand and interest in 'the could' amongst companies whose core business is not software and a result platforms have to adapt to stay in touch but many of these products grew up in a land where client server interactions were simple, many of the people who grew these products don't live in a multi touchpoint land.
+There is a lot of demand and interest in 'the cloud' amongst companies whose core business is not software and a result platforms have to adapt to stay in touch but many of these products grew up in a land where client server interactions were simple, many of the people who grew these products don't live in a multi touchpoint land. Many of these platforms are still wrestling with a mobile first world.
 
 ## An Authentication Example
 
